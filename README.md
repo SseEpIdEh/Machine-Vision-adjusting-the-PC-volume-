@@ -10,7 +10,7 @@ Track hand movements using the webcam
 
 Calculate the length of a line drawn between two landmarks on the hand
 
-Map the length to the system volume range
+Map the length to change the system volume range
 
 Display the volume percentage on the video frame
 
