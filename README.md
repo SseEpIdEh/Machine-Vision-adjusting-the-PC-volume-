@@ -6,17 +6,17 @@ By tracking the position of specific landmarks on the hand, the program interpre
 
 **Features:**
 
-Tracks hand movements using the webcam
+Track hand movements using the webcam
 
-Calculates the length of a line drawn between two landmarks on the hand
+Calculate the length of a line drawn between two landmarks on the hand
 
-Maps the length to the system volume range
+Map the length to the system volume range
 
-Displays the volume percentage on the video frame
+Display the volume percentage on the video frame
 
-Visualizes the volume level using filled rectangles
+Visualize the volume level using filled rectangles
 
-Offers a real-time interactive volume control experience
+Offer a real-time interactive volume control experience
 
 
 **Prerequisites:**
